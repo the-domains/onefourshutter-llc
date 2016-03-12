@@ -1,0 +1,28 @@
+name: 'OneFourShutter, LLC'
+favicon: null
+layout_spectrum: 0.8093215571716428
+typography_spectrum: 0.05744395079091191
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7591618071310222
+  lightness: 0.5853759767487645
+  saturation: 0.48268879437819123
+  rhythmicContrast: 0.9044263428077102
+purpose: []
