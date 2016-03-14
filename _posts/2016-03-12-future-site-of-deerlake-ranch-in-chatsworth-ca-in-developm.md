@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Future site of Deerlake Ranch in Chatsworth, CA. In development by Foremost Companies Inc.'
-datePublished: '2016-03-12T21:12:48.804Z'
-dateModified: '2016-03-12T21:12:33.155Z'
+datePublished: '2016-03-14T16:56:57.328Z'
+dateModified: '2016-03-12T21:12:57.062Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-12-future-site-of-deerlake-ranch-in-chatsworth-ca-in-developm.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-future-site-of-deerlake-ranch-in-chatsworth-ca-in-developm.md
-published: true
 url: future-site-of-deerlake-ranch-in-chatsworth-ca-in-developm/index.html
 _type: Article
 
